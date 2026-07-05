@@ -1,0 +1,39 @@
+# Sondajespt — Chiguayante
+
+> Geotechnical engineering services in Chiguayante, Chile.
+
+## Services
+- [Anclajes](https://chiguayante.sondajespt.com/anclajes/)
+- [Cbr Vial](https://chiguayante.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://chiguayante.sondajespt.com/cimentaciones/)
+- [Columnas Grava](https://chiguayante.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://chiguayante.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Triaxial](https://chiguayante.sondajespt.com/ensayo-triaxial/)
+- [Excavaciones Subterraneo](https://chiguayante.sondajespt.com/excavaciones-subterraneo/)
+- [Geofisica](https://chiguayante.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://chiguayante.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://chiguayante.sondajespt.com/granulometria/)
+- [Grouting](https://chiguayante.sondajespt.com/grouting/)
+- [Laboratorio In Situ](https://chiguayante.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chiguayante.sondajespt.com/laboratorio-lab/)
+- [Limites Atterberg](https://chiguayante.sondajespt.com/limites-atterberg/)
+- [Losa De Cimentacion](https://chiguayante.sondajespt.com/losa-de-cimentacion/)
+- [Mejoramiento](https://chiguayante.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://chiguayante.sondajespt.com/microzonificacion-sismica/)
+- [Muros Contencion](https://chiguayante.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://chiguayante.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://chiguayante.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://chiguayante.sondajespt.com/permeabilidad-campo/)
+- [Pilotes](https://chiguayante.sondajespt.com/pilotes/)
+- [Resistividad Electrica Sev](https://chiguayante.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://chiguayante.sondajespt.com/sismica/)
+- [Taludes](https://chiguayante.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://chiguayante.sondajespt.com/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://chiguayante.sondajespt.com/tuneles-suelo-blando/)
+
+## Contact
+- Website: https://chiguayante.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Chiguayante, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
